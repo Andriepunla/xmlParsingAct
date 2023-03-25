@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowers>
+   <roses>
+      <Life_span>
+         <years>
+            <date>5to7 years</date>
+         </years>
+      </Life_span>
+      <mature_size>6 inches to 20 feet in height and width</mature_size>
+      <sun_exposure>full sun</sun_exposure>
+      <soil_type>loamy well drained</soil_type>
+      <soil_ph>slightly acidic to neutral</soil_ph>
+      <flower_color>white,red,pink, yellow, orange, black</flower_color>
+   </roses>
+   <orchids>
+      <Life_span>
+         <years>
+            <date>10 to 15 years</date>
+         </years>
+      </Life_span>
+      <plant_type>perennial, herbaceous</plant_type>
+      <mature_size>1-3 ft. Tall, 6-12 in wide</mature_size>
+      <sun_exposure>partial</sun_exposure>
+      <soil_type>well-drained</soil_type>
+      <soil_ph>well drained</soil_ph>
+      <flower_color>pink, purple, white,red, yellow orange,green</flower_color>
+   </orchids>
+   <Tulips>
+      <Life_span>
+         <years>
+            <date>2 to 5 years</date>
+         </years>
+      </Life_span>
+      <plant_type>bulbous herbs</plant_type>
+      <mature_size>6 inches to 2 feet</mature_size>
+      <sun_exposure>full sun</sun_exposure>
+      <soil_type>Well-drained</soil_type>
+      <soil_ph>6.0-6.5</soil_ph>
+      <bloom_time>summer, fall</bloom_time>
+      <flower_color>multicolor, orange,pink, purple,red,white, yellow</flower_color>
+   </Tulips>
+   <Carnation>
+      <Life_span>
+         <years>
+            <date>5 to 10 years</date>
+         </years>
+      </Life_span>
+      <plant_type>perennial</plant_type>
+      <mature_size>6-24 in. tall, 10-14 wide</mature_size>
+      <sun_exposure>Full, partial</sun_exposure>
+      <soil_type>Well-drained</soil_type>
+      <soil_ph>Alkaline</soil_ph>
+      <bloom_time>Spring</bloom_time>
+      <flower_color>White, pink, red</flower_color>
+   </Carnation>
+</flowers>
